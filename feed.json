@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Teknomid Store",
+    "description": "",
+    "home_page_url": "https://teknomid.store",
+    "feed_url": "https://teknomid.store/feed.json",
+    "user_comment": "",
+    "icon": "https://teknomid.store/media/website/logo-272x90px-2.webp",
+    "author": {
+        "name": "teknomid"
+    },
+    "items": [
+    ]
+}
