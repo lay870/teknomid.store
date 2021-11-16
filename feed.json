@@ -5,6 +5,7 @@
     "home_page_url": "https://teknomid.store",
     "feed_url": "https://teknomid.store/feed.json",
     "user_comment": "",
+    "icon": "https://teknomid.store/media/website/logo-140x48px.webp",
     "author": {
         "name": "teknomid"
     },
